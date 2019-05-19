@@ -1,0 +1,4 @@
+<additionals>
+    <e1Detector id="il_north_0" lane="i_1" pos="19.00" freq="300.00" file="induction_loop_north_output.xml" friendlyPos="0"/>
+    <e1Detector id="il_south_0" lane="y_1" pos="4.00" freq="300.00" file="induction_loop_south_output.xml" friendlyPos="0"/>
+</additionals>

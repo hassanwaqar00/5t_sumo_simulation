@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+    <input>
+        <net-file value="osm.net.xml"/>
+        <route-files value="routes.rou.xml"/>
+        <additional-files value="induction_loops.add.xml"/>
+    </input>
+    <random_number>
+    <!-- You can use a random seed here -->
+        <seed value="800"/> 
+    </random_number>
+</configuration>
